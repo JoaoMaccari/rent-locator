@@ -1,2 +1,2 @@
 # rent locator
- Pagina que localiza alugueis disponíveis 
+ Pagina que localiza disponibilidade de alugueis. 
